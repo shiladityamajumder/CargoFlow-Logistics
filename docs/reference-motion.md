@@ -2,6 +2,10 @@
 
 Reference: https://www.emons.de/en, inspected October 3, 2026 in Chromium at 1440 × 900.
 
+[Documentation index](README.md) · [Animation implementation guide](animations.md)
+
+This document preserves historical measurements used to match the homepage. It is a comparison baseline, not a record of checks rerun whenever the documentation changes. For the current automated suite and its limits, see [Testing and troubleshooting](testing-and-troubleshooting.md).
+
 ## Hero
 
 - Document remains at scrollY 0 for four forward wheel gestures.
@@ -46,6 +50,8 @@ Loop endpoints include the original 0.1-second guard.
 
 These samples differ slightly because native scroll positions round to whole pixels while the two sections have different fractional document offsets. The implementation uses the same normalized keyframes rather than hardcoding these samples.
 
-## Checks
+## Recorded checks
 
-Verified in the browser: forward and backward wheel and touch gestures, one-second transition locking, tabs, 0.8 wheel scaling after release, sticky globe layout, original route SVG rendering, reverse route frames, service dialogs, mobile menu, reduced motion and absence of horizontal overflow. Mobile checks use a 390 × 844 viewport and actual touch events. Browser runtime errors: none in the recorded passes. Production compilation and TypeScript checking pass.
+The recorded browser passes covered forward and backward wheel and touch gestures, one-second transition locking, tabs, 0.8 wheel scaling after release, sticky globe layout, original route SVG rendering, reverse route frames, mobile menu, reduced motion and absence of horizontal overflow. Mobile comparisons used a 390 × 844 viewport and actual touch events. No browser runtime errors were recorded; production compilation and TypeScript checking passed in that implementation verification.
+
+The original comparison also checked service dialogs. Service links now navigate to their internal pages; those former dialog checks do not describe the current interaction. The current browser script automates the main wheel-scene regressions and selected mobile/internal-page flows. Touch, reduced motion and exact globe measurements still need separate checks when their implementation changes.
