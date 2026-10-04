@@ -1,0 +1,887 @@
+[
+  {
+    "href": "/en/leistungen",
+    "title": "Your logistics service provider with service for general cargo & transportation",
+    "description": "Emons Spedition is your logistics provider for transport, freight, and sea freight. Reliable logistics solutions from a single source – nationally and internationally."
+  },
+  {
+    "href": "/en/leistungen/strasse",
+    "title": "Truck transport - Road freight transport with Emons",
+    "description": "Truck transport throughout Europe. General cargo, partial loads, and full loads. Standard transit time 1-2 days. Shipment tracking. Request a transport quote now!"
+  },
+  {
+    "href": "/en/leistungen/sonstige-leistungen",
+    "title": "Logistics solutions for individual requirements and special transports",
+    "description": "Logistics solutions from Emons Spedition: exhibition logistics, battery transport and individual services. Flexible, reliable and tailored to your requirements."
+  },
+  {
+    "href": "/en/news",
+    "title": "Emons-news We'll keep you up to date",
+    "description": "Always up to date with Emons News: Timber price index, diesel prices and service information for customers and partners from Emons Spedition."
+  },
+  {
+    "href": "/en/kontakt",
+    "title": "Emon's contact — this is how you can reach us directly",
+    "description": "Emons Contact: all contact options, phone numbers, and customer service at a glance. Direct line to Emons Shipping."
+  },
+  {
+    "href": "/en/impressum",
+    "title": "imprint",
+    "description": "Emons Impressum: Rechtliche Informationen und Angaben gemäß Impressumspflicht. Kontaktdaten und Unternehmensangaben der Emons Spedition."
+  },
+  {
+    "href": "/en/datenschutz",
+    "title": "Privacy Policy",
+    "description": "Emons Datenschutzerklärung: Informationen zum Umgang mit personenbezogenen Daten. Ihre Privatsphäre ist uns wichtig. DSGVO-konforme Datenverarbeitung."
+  },
+  {
+    "href": "/en/agb-uebersicht",
+    "title": "AGB",
+    "description": "Emons Allgemeine Geschäftsbedingungen: Rechtliche Grundlagen für die Zusammenarbeit. Transparente Bedingungen für alle Transportdienstleistungen."
+  },
+  {
+    "href": "/en/portrait",
+    "title": "Family businesses in the Logistics sector — our portrait",
+    "description": "Emon's company profile: Family-run logistics company since 1928. Over 120 locations worldwide. Tradition, innovation and quality."
+  },
+  {
+    "href": "/en/standorte",
+    "title": "Freight forwarding near you – find Emons locations",
+    "description": "Find your local Emons freight forwarding company. Over 120 branches in Germany, Europe, and worldwide. Local service, global network."
+  },
+  {
+    "href": "/en/leistungen/schiene",
+    "title": "Freight transport for containers and logistics solutions",
+    "description": "Freight transport with Emons Spedition: rail, train, and container logistics. Sustainable transport solutions for national and international connections."
+  },
+  {
+    "href": "/en/leistungen/luft",
+    "title": "Reliable air freight transport and forwarding worldwide",
+    "description": "Order air freight with Emons Spedition now. From express delivery to USA-Germany delivery — flexible and on time."
+  },
+  {
+    "href": "/en/leistungen/see",
+    "title": "Sea freight and container transport for international trade",
+    "description": "Your sea freight with Emons Spedition: from containers to general cargo. Efficient, reliable and internationally connected. Request transport now."
+  },
+  {
+    "href": "/en/leistungen/zoll",
+    "title": "Customs clearance for imports, exports and EU trade",
+    "description": "Your customs processing at Emons Spedition: from EU customs to international imports. Efficient customs clearance and secure processing."
+  },
+  {
+    "href": "/en/leistungen/logistik",
+    "title": "Logistics and order picking for efficient supply chains",
+    "description": "Emons Spedition provides logistics for industry, retail and online shops. Reliable warehouse logistics, shipping and picking from a single source."
+  },
+  {
+    "href": "/en/leistungen/digital",
+    "title": "Digitalization and innovative logistics solutions for the future",
+    "description": "Your digitization with Emons Spedition: from process optimization to digital logistics. Sustainable and efficient solutions for every sector."
+  },
+  {
+    "href": "/en/auftragserfassung",
+    "title": "My Emons Online order entry for your orders",
+    "description": "Digital order entry at Emons Spedition: from transport orders to shipping software. Efficient, fast and transparent."
+  },
+  {
+    "href": "/en/cargointernational",
+    "title": "Affordable freight forwarding for private customers & occasional shippers",
+    "description": "Affordable shipping for private customers and occasional shippers. Calculate prices instantly. Pickup included. Ship packages, pallets, and bulky goods."
+  },
+  {
+    "href": "/en/hinweisgebersystem",
+    "title": "Whistleblower system",
+    "description": "Emons Hinweisgebersystem: Nutzen Sie das Emons Hinweisgebersystem, um Verstöße sicher und anonym zu melden. Wir schützen Hinweisgeber und fördern Integrität sowie Transparenz im Unternehmen."
+  },
+  {
+    "href": "/en/frachtanfrage",
+    "title": "Unser Freight request form ‍",
+    "description": "Emons Frachtanfrage Formular: Online-Formular für schnelle Angebotsanfragen. Einfach ausfüllen und individuelles Angebot erhalten."
+  },
+  {
+    "href": "/en/frachtanfrage/strasse",
+    "title": "Unser Freight request form ‍",
+    "description": "Emons Frachtanfrage Formular: Online-Formular für schnelle Angebotsanfragen. Einfach ausfüllen und individuelles Angebot erhalten."
+  },
+  {
+    "href": "/en/frachtanfrage/schiene",
+    "title": "Unser Freight request form ‍",
+    "description": "Emons Frachtanfrage Formular: Online-Formular für schnelle Angebotsanfragen. Einfach ausfüllen und individuelles Angebot erhalten."
+  },
+  {
+    "href": "/en/frachtanfrage/luft-und-see",
+    "title": "Unser Freight request form ‍",
+    "description": "Emons Frachtanfrage Formular: Online-Formular für schnelle Angebotsanfragen. Einfach ausfüllen und individuelles Angebot erhalten."
+  },
+  {
+    "href": "/en/frachtanfrage/logistik",
+    "title": "Unser Freight request form ‍",
+    "description": "Emons Frachtanfrage Formular: Online-Formular für schnelle Angebotsanfragen. Einfach ausfüllen und individuelles Angebot erhalten."
+  },
+  {
+    "href": "/en/frachtanfrage/autotransport",
+    "title": "Unser Freight request form ‍",
+    "description": "Emons Frachtanfrage Formular: Online-Formular für schnelle Angebotsanfragen. Einfach ausfüllen und individuelles Angebot erhalten."
+  },
+  {
+    "href": "/en/news/aktuelles-zur-weltweiten-transportsituation-2",
+    "title": "Latest news on the global transport situation",
+    "description": "Emons Air & Sea News April 2021: Auswirkungen der Suezkanal-Blockade, angespannte Containerverfügbarkeit, hohe Raten und steigende Nachfrage in der Luftfracht."
+  },
+  {
+    "href": "/en/news/anderungen-fur-strasse-schiene-binnenschiff-und-luftfahrt",
+    "title": "Changes for road, rail, inland waterways and aviation",
+    "description": "Ab 01.01.2023 gelten neue Gefahrgutvorschriften (ADR, RID, ADN, IATA, IMDG). Emons informiert über Übergangsfristen und die geplante Umstellung Mitte Juni 2023."
+  },
+  {
+    "href": "/en/news/autotransporte-bei-emons-wenn-supercars-fliegen-lernen",
+    "title": "Car transport at Emons: When supercars learn to fly",
+    "description": "Safely transport supercars, collectibles & luxury cars — find out how Emons airfreight vehicles around the world every week."
+  },
+  {
+    "href": "/en/news/batterien-entsorgen-neu-gedacht-wie-logistik-die-kreislaufwirtschaft-in-bewegung-bringt",
+    "title": "Emons | Battery: Rethinking Battery Disposal",
+    "description": "Emons Battery: Specialist in battery and waste transports. Fast pick-up, certified under §54 KrWG, active across Europe. Logistics that enable the circular economy."
+  },
+  {
+    "href": "/en/news/besuchen-sie-uns-auf-der-intralogistik-messe-in-stuttgart",
+    "title": "Visit us at the Intralogistics Fair in Stuttgart",
+    "description": "Besuchen Sie Emons auf der LogiMAT 2025 in Stuttgart (Halle 7, Stand 7D29). Erfahren Sie alles über Transporte, Zollservices, digitale Tools und neue Logistiklösungen."
+  },
+  {
+    "href": "/en/news/besuchen-sie-uns-auf-der-logimat",
+    "title": "Visit us at LogiMAT",
+    "description": "Besuchen Sie Emons auf der LogiMAT 2022: Halle 6, Stand B09. Beratung zu Verkehrsträgern, Outsourcing, Zoll und neuen digitalen Logistiklösungen."
+  },
+  {
+    "href": "/en/news/besuchen-sie-uns-in-halle-a5-stand-320",
+    "title": "Visit us in Hall A5 Booth 320",
+    "description": "Besuchen Sie Emons auf der transport logistic 2023 in München (Halle A5, Stand 320). Informationen zu Straße, Schiene, Luft, See, Logistik, Zoll und Digitalisierung."
+  },
+  {
+    "href": "/en/news/beware-neues-rebranding-gleiche-dna-mehr-verantwortung",
+    "title": "BEWARE: New rebrand. Same DNA. More responsibility.",
+    "description": "BEWARE provides Europe-wide logistics for lithium-ion batteries, hazardous waste and recyclable materials. Secure transportation, container solutions, and recycling interfaces."
+  },
+  {
+    "href": "/en/news/cbam-2026-neue-co2-pflichten-fur-den-eu-import---was-jetzt-auf-unternehmen-zukommt",
+    "title": "CBAM 2026: New CO₂ requirements for EU imports — what companies are facing now",
+    "description": "From 2026, the EU Carbon Border Adjustment Mechanism (CBAM) will apply. Find out which imported goods are affected, which CO₂ certificates are required and how companies should prepare now."
+  },
+  {
+    "href": "/en/news/containergrossen-im-uberblick-20-40-high-cube-co",
+    "title": "Container sizes at a glance: 20', 40', High Cube, and more.",
+    "description": "Container sizes at a glance: Learn more about 20ft, 40ft, and High Cube containers, as well as FCL and LCL for your sea freight."
+  },
+  {
+    "href": "/en/news/die-neue-firmenzentrale-nimmt-gestalt-an",
+    "title": "The new company headquarters is taking shape",
+    "description": "Emons zieht 2023 in die Leskan Lofts Köln-Dellbrück. Moderne Büros mit Desk Sharing, interaktiven Besprechungsinseln und hoher Energieeffizienz für flexibles Arbeiten."
+  },
+  {
+    "href": "/en/news/eigenstromproduktion-bei-emons-wie-wir-mit-solarstrom-unsere-standorte-versorgen-und-co2-sparen",
+    "title": "Self-generated electricity at Emons: How we supply our sites with solar power and save CO₂",
+    "description": "Photovoltaics at Emons: In 2025, we produce over 818,000 kWh of our own electricity and save more than 105 tons of CO₂. Find out how we use solar energy to supply our logistics sites and practice sustainability in everyday life."
+  },
+  {
+    "href": "/en/news/einfuhrung-der-co2-emissionsklassen-verteuert-die-maut",
+    "title": "Introduction of CO2 emission classes makes tolls more expensive",
+    "description": "Die Bundesregierung verdoppelt ab 1.12.2023 die Lkw-Maut durch CO₂-Zuschlag und neue Gewichtsklassen. Emons informiert über Auswirkungen und geplante Erhöhungen 2024."
+  },
+  {
+    "href": "/en/news/emons-air-sea-jetzt-mit-eigener-niederlassung-in-vietnam",
+    "title": "Emons Air & Sea now has its own branch in Vietnam",
+    "description": "With Emons Vietnam, we are opening up one of the most dynamic markets in Southeast Asia. Read the blog post to find out why the new location is an important step in our internationalization strategy and what opportunities it offers for customers, partners and the Emons network."
+  },
+  {
+    "href": "/en/news/emons-auf-der-logimat-2026",
+    "title": "Emons at LogiMAT 2026",
+    "description": "LogiMAT 2026: Discover modern logistics solutions from Emons — from air & sea transport to hazardous materials storage and sustainable transport concepts."
+  },
+  {
+    "href": "/en/news/emons-auf-platz-1-auszeichnung-fur-den-deutschen-mittelstand",
+    "title": "Emons at #1: An award for the German SME sector",
+    "description": "Emons has taken the #1 spot among the Top 50 freight forwarding and logistics companies in the German SME sector. Learn more about the ranking and our international strategy."
+  },
+  {
+    "href": "/en/news/emons-beteiligt-sich-an-der-wolf-spedition",
+    "title": "Emons beteiligt sich an der Wolf Spedition",
+    "description": "Die Emons Gruppe beteiligt sich an Wolf Spediton und baut das regionale Netzwerk weiter aus."
+  },
+  {
+    "href": "/en/news/emons-expandiert-nach-spanien---partnerschaft-mit-tafatrans-starkt-internationales-netzwerk",
+    "title": "Emons expands to Spain - partnership with Tafatrans strengthens international network",
+    "description": "Emons is expanding to Spain: With the founding of EMONS LOGISTICS ESPAÑA and partner Grupo Tafatrans, we are strengthening our international network. Learn more about our values, goals and significance for the Iberian Peninsula as a location."
+  },
+  {
+    "href": "/en/news/emons-kenzingen-gewinnt-neuen-logistikkunden",
+    "title": "Emons Kenzingen gains new logistics customer",
+    "description": "Das Designunternehmen Aliseo lagert seine Logistik an Emons Kenzingen aus. Nachhaltige Logistiklösungen, CO₂-Reduktion und effiziente Distributionsprozesse."
+  },
+  {
+    "href": "/en/news/emons-nimmt-wieder-als-aussteller-auf-der-messe-transport-logistic-teil",
+    "title": "Emons is once again taking part as an exhibitor at the Transport Logistic trade fair.",
+    "description": "Besuchen Sie Emons auf der transport logistic 2025 in München (Halle A5, Stand 324). Themen: Ukraine-Transporte, Batterieentsorgung, Gefahrstofflagerung und digitale Logistiklösungen."
+  },
+  {
+    "href": "/en/news/emons-portugal-lda-gegrundet",
+    "title": "Emons Portugal Lda. founded",
+    "description": "Emons expandiert in Portugal mit eigenen Standorten in Porto und Lissabon. Stärkung des europäischen Netzwerks für Teil- und Komplettladungen sowie Stückguttransporte."
+  },
+  {
+    "href": "/en/news/emons-setzt-auf-elektromobilitat-e-lkw-fahrt-erfolgreich-durch-stuttgart",
+    "title": "Emons focuses on electric mobility: e-truck drives successfully through Stuttgart",
+    "description": "New e-truck at Emons: Since June 2024, an all-electric FUSO eCanter has been supplying customers in downtown Stuttgart — as part of the REALIST project. 100% CO₂ savings, over 12,500 km mileage and important findings for the city logistics of the future."
+  },
+  {
+    "href": "/en/news/emons-transportiert-fahrradreifen-zum-recycling",
+    "title": "Emons transports bicycle tires for recycling",
+    "description": "Emons transportiert gebrauchte Fahrradreifen für das Schwalbe Recycling System® zum Recycling-Center. Nachhaltige Logistik mit 80 % CO₂-Einsparung."
+  },
+  {
+    "href": "/en/news/emons-ubernimmt-pall-ex-iberia",
+    "title": "Emons acquires Pall-Ex Iberia",
+    "description": "The Emons Group acquires Pall-Ex Iberia and continues to expand its European overland transport network. More capacity, better connection between Spain and Portugal to the Emons system."
+  },
+  {
+    "href": "/en/news/emons-ubernimmt-soziale-verantwortung",
+    "title": "Emons assumes social responsibility",
+    "description": "In 2022, Emons is involved with aid transport, donations for children and youth projects, support for food banks, sports clubs and international relief efforts."
+  },
+  {
+    "href": "/en/news/emons-ubernimmt-soziale-verantwortung-2",
+    "title": "Emons assumes social responsibility",
+    "description": "Emons is socially committed: aid transport, donations for schools and associations, support from the Kölner Tafel and animal sponsorships — responsibility for the community."
+  },
+  {
+    "href": "/en/news/eu-mobility-package-sorgt-fur-verknappung-der-kapazitaten",
+    "title": "EU mobility package creates a shortage of capacities",
+    "description": "Emons informiert über das EU-Mobility-Package: Verbesserte Arbeitsbedingungen für Fahrpersonal, Rückkehrpflichten, neue Genehmigungspflichten und Dokumentationsanforderungen."
+  },
+  {
+    "href": "/en/news/europalette-masse-gewicht-paletten-im-lkw",
+    "title": "Euro pallet dimensions: weight & pallets in the truck",
+    "description": "Euro pallet overview: dimensions, weight, load capacity, and loading meters. Find out how many pallets fit into a truck and what is important for shipping."
+  },
+  {
+    "href": "/en/news/familie-tradition-und-vertrauen",
+    "title": "Family, tradition and trust",
+    "description": "Emons erreicht Platz 2 bei „Deutschlands beliebteste Familienunternehmen“ der WirtschaftsWoche. Hohe Werte in Vertrauen, Qualität, Innovation und Nachhaltigkeit."
+  },
+  {
+    "href": "/en/news/focus-business-und-kununu-kuren-die-top-arbeitgeber-deutschlands",
+    "title": "FOCUS-Business and Kununu choose Germany's TOP employers",
+    "description": "Emons wird von FOCUS-Business und Kununu als TOP-Arbeitgeber 2021 ausgezeichnet. Bester mittelgroßer Arbeitgeber in Transport & Logistik mit 74 % Weiterempfehlung."
+  },
+  {
+    "href": "/en/news/founder-und-emons-unterzeichnen-vertrage",
+    "title": "Founder and Emons sign contracts",
+    "description": "Emons beteiligt sich an Logistikunternehmen in China und Taiwan, stärkt Air-&-Sea-Transporte und baut Warehousing in Asien aus. Internationales Netzwerk mit 114 Standorten."
+  },
+  {
+    "href": "/en/news/gefahrstoffspezialist-ldb-verstarkt-das-emons-portfolio",
+    "title": "Hazardous substances specialist LDB strengthens Emons portfolio",
+    "description": "Emons beteiligt sich an der LDB-Gruppe und erweitert sein Portfolio um Gefahrstofflagerung, Shop-Logistik und Transportlösungen. Stärkung des Netzwerks in Baden."
+  },
+  {
+    "href": "/en/news/grundstuckskauf-im-c-port-und-hallenerweiterung-in-uhrsleben",
+    "title": "Purchase of land in c-Port and Hall Extension in Uhrsleben",
+    "description": "Emons investiert in eine neue Speditionsanlage im c-Port Saterland und erweitert die Stückgut-Umschlaganlage in Uhrsleben auf 6.500 m². Wachstum und neue Kapazitäten in Norddeutschland."
+  },
+  {
+    "href": "/en/news/information-zur-erreichbarkeit-uber-den-jahreswechsel-2025-2026",
+    "title": "Information on availability at the turn of the year 2025/2026",
+    "description": "Information about our opening hours for the turn of the year 2025/2026, including company downtime and limited availability on public holidays."
+  },
+  {
+    "href": "/en/news/kurzere-laufzeiten-und-zusatzliche-netzwerk-kapazitaten-fur-emons-urmitz",
+    "title": "Shorter runtimes and additional network capacities for Emons Urmitz",
+    "description": "Emons Urmitz is expanding its network capacities in the Koblenz region. Benefit from shorter delivery times, additional general cargo capacities and an even stronger connection to the national transport network."
+  },
+  {
+    "href": "/en/news/langere-laufzeiten",
+    "title": "Longer run times",
+    "description": "Emons informiert: In der Urlaubszeit längere Laufzeiten in südeuropäische Länder (KW 33–35). Amazon-Lager Euskirchen & Oelde vorübergehend ohne Warenannahme."
+  },
+  {
+    "href": "/en/news/leo-award-2025-fur-christiane-bauer",
+    "title": "LEO Award 2025 for Christiane Bauer: Why teamwork, courage and vision make the difference",
+    "description": "Christiane Bauer wins the 2025 LEO Award for the training project Why not Logistics. This is how Emons is tackling the shortage of skilled workers."
+  },
+  {
+    "href": "/en/news/lithium-ionen-batterien-boomen-doch-wohin-mit-den-abfallbatterien",
+    "title": "Lithium-ion batteries are booming. But where to put the waste batteries?",
+    "description": "Emons ist Mitgründer des Entsorgungsnetzwerks e.punkt für Lithium-Ionen-Batterien. Sicherer Transport, Recycling und ein nachhaltiger Batteriekreislauf bundesweit."
+  },
+  {
+    "href": "/en/news/logimat-stuttgart-25-bis-27-april-2023",
+    "title": "LogiMAT Stuttgart April 25 to 27, 2023",
+    "description": "Besuchen Sie Emons auf der LogiMAT 2023 in Stuttgart (Halle 7, Stand F51). Erleben Sie digitale Innovationen, Logistiklösungen und spannende Vorträge aus der Praxis."
+  },
+  {
+    "href": "/en/news/ministerprasident-wust-zu-gast-bei-emons-in-koln",
+    "title": "Minister President Wüst visits Emons in Cologne",
+    "description": "Emons Cologne welcomes Minister President Hendrik Wüst for an economic discussion. Topics: reducing bureaucracy, digitalization, and the future of locations."
+  },
+  {
+    "href": "/en/news/moderner-standort-geht-ans-netz",
+    "title": "Modern location goes online",
+    "description": "Emons Brünn zieht in eine neue 4.500 m² große Logistikanlage in Blučina. Modernes Hochregallager, Sicherheitsüberwachung und flexible Lageroptionen für neue Kunden."
+  },
+  {
+    "href": "/en/news/neu-von-china-nach-deutschland-jetzt-auch-per-lkw",
+    "title": "NEW! From China to Germany now also by truck",
+    "description": "Emons bietet zuverlässige Lkw-Transporte für Importe aus China: 35–40 Tage Laufzeit, kurzfristige Verfügbarkeit, transparente Abwicklung und Importverzollung inklusive."
+  },
+  {
+    "href": "/en/news/neue-adresse-und-firmierung-ab-12-05-2023",
+    "title": "New address and company name from 12.05.2023",
+    "description": "Emons zieht ins neue Headquarter in den Leskan Lofts Köln-Dellbrück. Eingeschränkte Erreichbarkeit vom 12.05.–15.05.2023, ab 16.05. wieder voll verfügbar."
+  },
+  {
+    "href": "/en/news/neue-heimat-der-zentrale-in-koln-dellbruck",
+    "title": "New home for headquarters in Cologne-Dellbrück",
+    "description": "Seit Mai 2023 arbeitet Emons im neuen Headquarter in den Leskan Lofts Köln-Dellbrück. Moderne, helle Räume mit Flair für ein inspirierendes Arbeitsumfeld."
+  },
+  {
+    "href": "/en/news/neue-speditions--und-logistikanlage-in-kenzingen",
+    "title": "New freight forwarding and logistics facility in Kenzingen",
+    "description": "Emons eröffnet in Kenzingen eine moderne Speditions- und Logistikanlage mit 3.000 m² Umschlagsfläche und 4.500 m² Lagerlogistik. Nachhaltig, effizient und verkehrsgünstig gelegen."
+  },
+  {
+    "href": "/en/news/news-kommissionierung-verfahren-ablauf",
+    "title": "Definition, process, picking methods, and digital solutions",
+    "description": "Order picking explained: Learn more about the process, methods, and digital solutions, and get tips for efficient warehouse operations."
+  },
+  {
+    "href": "/en/news/ralf-wieland-zum-senator-des-iws-berufen",
+    "title": "Ralf Wieland appointed as IWS senator",
+    "description": "Mittelstand im Fokus: Emons CEO Ralf Wieland wird Senator im Internationalen Wirtschaftssenat e. V. und bringt Impulse aus der Logistikbranche in Politik und Wirtschaft ein."
+  },
+  {
+    "href": "/en/news/ranga-yogeshwar-gratuliert-emons-zum-sprung-in-die-top-100",
+    "title": "Ranga Yogeshwar congratulates Emons on jumping into the TOP 100",
+    "description": "Emons wird als TOP 100-Innovator 2022 ausgezeichnet. Schwerpunkt: innovationsförderndes Management und digitale Geschäftsfelder in der Speditions- und Logistikbranche."
+  },
+  {
+    "href": "/en/news/schwundkosten-auf-null-gesetzt",
+    "title": "Shrinkage costs set to zero from the beginning",
+    "description": "With the logistics booth, Emons Battery digitizes container management for special containers in battery transport. The result: no losses, full transparency and accurate tracking for customers."
+  },
+  {
+    "href": "/en/news/serap-guler-auf-sommertour-bei-der-emons-spedition",
+    "title": "Serap Güler auf Sommertour bei der Emons Spedition",
+    "description": "Staatsministerin Serap Güler besucht Emons in Köln und informiert sich über Why Not Logistics, internationale Ausbildung und Herausforderungen der Spedition."
+  },
+  {
+    "href": "/en/news/spend",
+    "title": "Emon's social commitment",
+    "description": "Every year, Emons is socially committed: aid transport, donations for schools and associations, support from the Kölner Tafel and animal sponsorships — responsibility for the community."
+  },
+  {
+    "href": "/en/news/spenden-von-emons",
+    "title": "Donations from Emons",
+    "description": "Emons engagiert sich sozial: Unterstützung für Flutopfer, Spenden an Kinderhilfsprojekte, Kooperation mit der Kölner Tafel und Aktionen für Lkw-Fahrer und Jugendliche."
+  },
+  {
+    "href": "/en/news/startschuss-fur-logistik-neubau-in-thurnau",
+    "title": "Starting signal for new logistics building in Thurnau",
+    "description": "Emons investiert 16 Mio. € in ein neues Logistikzentrum in Thurnau mit 16.000 m² Fläche, nachhaltiger Energieversorgung und modernen Arbeitsplätzen. Fertigstellung 2021 geplant."
+  },
+  {
+    "href": "/en/news/strategischer-schritt-in-die-zukunft-emons-digitalisiert-mit-neuem-webauftritt-die-speditionsbranche",
+    "title": "Strategic step into the future: Emons digitalizes the freight forwarding industry with a new website",
+    "description": "Emons presents a redesigned website with interactive features, improved user guidance and digital services for modern logistics processes."
+  },
+  {
+    "href": "/en/news/stuckgut-versenden-definition-ablauf-tipps",
+    "title": "Shipping general cargo: Definition, process & tips",
+    "description": "General cargo explained: Learn when shipping general cargo makes sense, how the process works, and what you should keep in mind during planning and shipping."
+  },
+  {
+    "href": "/en/news/thomas-plaudert-uber-seinen-arbeitsalltag",
+    "title": "Thomas talks about his everyday work",
+    "description": "Die Maus beim Emons-Lkw: Kinderreporter Jonah und WDR-Reporterin Saskia erleben den Alltag eines Berufskraftfahrers – spannende Einblicke und lautes Hupen im Podcast."
+  },
+  {
+    "href": "/en/news/tuv-rheinland-zertifiziert-emons-nach-iso-iec-27001-2022",
+    "title": "TÜV Rheinland certifies Emons according to ISO/IEC 27001:2022",
+    "description": "Emons strengthens its cyber defenses and receives ISO/IEC 27001:2022 certification for information security in transport and logistics processes."
+  },
+  {
+    "href": "/en/news/umfirmierung-in-der-usa-zu-emons-air-sea",
+    "title": "Change of name in the USA to Emons Air & Sea",
+    "description": "Emons stärkt mit der Mehrheitsbeteiligung an Global Fairways seine Präsenz in den USA. Standorte in Detroit, New York, Chicago und Los Angeles bieten Luft- und Seefracht-Services aus einer Hand."
+  },
+  {
+    "href": "/en/news/vereinigtes-konigreich-grossbritannien-nordirland",
+    "title": "United Kingdom of Great Britain & Northern Ireland",
+    "description": "Emons informiert: Transport und Versand nach Großbritannien & Nordirland nach dem Brexit. Checklisten für Export und Import, Zollformalitäten und wichtige Hinweise für Ihre Sendungen."
+  },
+  {
+    "href": "/en/news/warespace-ist-das-logistiknetzwerk-fur-europa",
+    "title": "Warespace is the logistics network for Europe",
+    "description": "Emons ist Partner des Logistiknetzwerks Warespace. Über die Plattform Palletspace können Lagerflächen einfach online gebucht werden – mit zentraler Administration und nachhaltigen Transportwegen."
+  },
+  {
+    "href": "/en/news/webinare-zum-brexit",
+    "title": "Webinare zum Brexit",
+    "description": "Emons bietet Brexit-Webinare: Änderungen in der Zollabwicklung ab 2022 kompakt im Fresh Up oder Grundlagenkurs. Jetzt Wissen auffrischen und Teilnahme sichern."
+  },
+  {
+    "href": "/en/news/wirtschaftsdelegation-aus-turkmenistan-zu-gast-bei-emons-in-ditzingen",
+    "title": "Business Delegation from Turkmenistan Visits Emons in Ditzingen",
+    "description": "Emons hosts a business delegation from Turkmenistan in Ditzingen. The focus is on transport corridors, customs procedures, and logistics solutions between Europe and Central Asia."
+  },
+  {
+    "href": "/en/news/zustellungen-mit-mitnahmestapler",
+    "title": "Deliveries with truck-mounted forklift",
+    "description": "Emons erweitert sein Portfolio: Spezialfahrzeuge mit Mitnahmestaplern ermöglichen die Zustellung sperriger Güter bei eingeschränkten Zufahrten, auf Baustellen und schwierigen Grundstücken."
+  },
+  {
+    "href": "/en/news/zweiter-standort-in-der-slowakei",
+    "title": "Second location in Slovakia",
+    "description": "Emons eröffnet einen neuen Standort in Martin und stärkt damit sein Stückgutnetzwerk in der Slowakei. Moderne Speditionsanlage für effiziente Logistik und schnelle Zustellungen."
+  },
+  {
+    "href": "/en/standorte/basel",
+    "title": "",
+    "description": "➤ Book a shipping company in Basel cheaply ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/bexbach-saarbrucken",
+    "title": "Freight Forwarding Saarbrücken – Emons in Bexbach",
+    "description": "➤ Book a shipping company in Saarbrücken at a great rate ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Submit a transport request now"
+  },
+  {
+    "href": "/en/standorte/blucina",
+    "title": "",
+    "description": "➤ Book a shipping company in Blučina cheaply ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/bratislava",
+    "title": "",
+    "description": "➤ Book a shipping company in Bratislava cheaply ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/bremen-emons-air-sea",
+    "title": "",
+    "description": "➤ Book an air and sea freight forwarding company in Bremen at a reasonable price ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request"
+  },
+  {
+    "href": "/en/standorte/cluj-napoca",
+    "title": "",
+    "description": "➤ Book a shipping company in Cluj-Napoca cheaply ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/denver",
+    "title": "",
+    "description": "➤ Book an air and sea freight forwarding company in Denver at a reasonable price ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request"
+  },
+  {
+    "href": "/en/standorte/detroit",
+    "title": "",
+    "description": "Book an air and sea freight forwarding company in Detroit at a reasonable price. Emons: Your reliable partner for transport and logistics since 1928."
+  },
+  {
+    "href": "/en/standorte/ditzingen-stuttgart",
+    "title": "",
+    "description": "➤ Book a shipping company in Stuttgart at a reasonable price ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/dresden",
+    "title": "Spedition Dresden — your logistics partner in Saxony",
+    "description": "➤ Book a shipping company in Dresden at a reasonable price ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/dresden-emons-rail-cargo",
+    "title": "",
+    "description": "➤ Book cheap rail transport in Dresden ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request"
+  },
+  {
+    "href": "/en/standorte/duisburg",
+    "title": "Spedition Duisburg — your logistics partner on the Rhine",
+    "description": "➤ Book a shipping company in Duisburg cheaply ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/erfurt",
+    "title": "Spedition Erfurt — your logistics partner in Thuringia",
+    "description": "➤ Book a shipping company in Erfurt at a reasonable price ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/erfurt-emons-logistik",
+    "title": "",
+    "description": "➤ Innovative logistics solutions in Erfurt ➤ Emons: Your reliable partner for storage, transport and logistics in Thuringia since 1928 ➤ Inquire now"
+  },
+  {
+    "href": "/en/standorte/esbjerg",
+    "title": "",
+    "description": "➤ Book a shipping company in Esbjerg at a reasonable price ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/founder-air-sea-cargo-co-taiwan",
+    "title": "",
+    "description": "➤ Book an air and sea freight forwarding company in Taipei at a reasonable price ➤ Emons: Your reliable partner for transport and logistics"
+  },
+  {
+    "href": "/en/standorte/founder-global-logistics-beijing",
+    "title": "",
+    "description": "➤ Book inexpensive logistics solutions in Beijing ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/founder-global-logistics-chongqing",
+    "title": "",
+    "description": "➤ Book inexpensive logistics solutions in Chongqing ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/founder-global-logistics-guangzhou",
+    "title": "",
+    "description": "➤ Book inexpensive logistics solutions in Guangzhou ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/founder-global-logistics-limited-qingdao",
+    "title": "",
+    "description": "➤ Book inexpensive logistics solutions in Qingdao ➤ Emons: Your reliable partner for transport and logistics since 1928"
+  },
+  {
+    "href": "/en/standorte/founder-global-logistics-ningbo",
+    "title": "",
+    "description": "➤ Book inexpensive logistics solutions in Ningbo ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/founder-global-logistics-shanghai",
+    "title": "",
+    "description": "➤ Book inexpensive logistics solutions in Shanghai ➤ Emons: Your reliable partner for transport and logistics since 1928"
+  },
+  {
+    "href": "/en/standorte/founder-global-logistics-shanghai-xiamen",
+    "title": "",
+    "description": "➤ Book inexpensive logistics solutions in Xiamen ➤ Emons: Your reliable partner for transport and logistics since 1928"
+  },
+  {
+    "href": "/en/standorte/founder-global-logistics-shenzhen",
+    "title": "",
+    "description": "➤ Book inexpensive logistics solutions in Shenzhen ➤ Emons: Your reliable partner for transport and logistics since 1928"
+  },
+  {
+    "href": "/en/standorte/founder-global-logistics-tianjin",
+    "title": "",
+    "description": "➤ Book inexpensive logistics solutions in Tianjin ➤ Emons: Your reliable partner for transport and logistics since 1928"
+  },
+  {
+    "href": "/en/standorte/frankfurt-oder",
+    "title": "",
+    "description": "➤ Book a shipping company in Frankfurt (Oder) cheaply ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/frankfurt-oder-zoll",
+    "title": "",
+    "description": "Emons Spedition in Frankfurt (Oder): Professional transport and logistics services. Service close to the border between Germany and Poland."
+  },
+  {
+    "href": "/en/standorte/gardena-los-angeles",
+    "title": "",
+    "description": "➤ Book an air and sea freight forwarding company in Los Angeles/Gardena at a reasonable price ➤ Emons: Your reliable partner for transport and logistics since 1928"
+  },
+  {
+    "href": "/en/standorte/gengenbach-freiburg",
+    "title": "",
+    "description": "➤ Innovative logistics solutions in Gengenbach ➤ Emons: Your reliable partner for storage, transport and logistics since 1928 ➤ Inquire now"
+  },
+  {
+    "href": "/en/standorte/glauchau-chemnitz",
+    "title": "Freight Forwarder Chemnitz – Your Logistics Partner for South-West Saxony at GVZ Glauchau",
+    "description": "Your freight forwarder in Chemnitz – groupage, part and full loads, warehouse logistics, plus container and rail connections from GVZ Glauchau. For Saxony’s industry. Request now!"
+  },
+  {
+    "href": "/en/standorte/grossbeeren-berlin",
+    "title": "Freight Forwarding Berlin – Emons in Großbeeren (GVZ Berlin-Süd)",
+    "description": "Freight forwarding for Berlin and Brandenburg: Emons in Großbeeren (GVZ Berlin-Süd) offers groupage, part and full loads, as well as warehouse logistics. Submit a freight inquiry now."
+  },
+  {
+    "href": "/en/standorte/hallbergmoos-munchen-emons-air-sea",
+    "title": "Air Freight Forwarding Munich – Your Partner for Air and Sea Freight at MUC Airport",
+    "description": "➤ Book an air and sea freight forwarding company in Munich at a reasonable price ➤ Emons: Your reliable partner for transport and logistics since 1928"
+  },
+  {
+    "href": "/en/standorte/hallbergmoos-munchen-emons-spedition",
+    "title": "Logistics Munich – Your Freight Forwarder for General Cargo, Warehousing, and Distribution",
+    "description": "➤ Book a shipping company in Munich at a reasonable price ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/hamburg-emons-air-sea",
+    "title": "Sea Freight Forwarder Hamburg – Your Partner for Containers, Port & Air Freight",
+    "description": "➤ Book an affordable air and sea freight forwarder in Hamburg ➤ Emons: Your reliable partner for transport and logistics since 1928"
+  },
+  {
+    "href": "/en/standorte/headoffice-koln",
+    "title": "",
+    "description": "➤ Central administration in Cologne ≫ Emons: Your headquarters for transport and logistics since 1928 ≫ Get in touch now."
+  },
+  {
+    "href": "/en/standorte/himmelkron-bayreuth",
+    "title": "Spedition Bayreuth — your logistics partner in Upper Franconia",
+    "description": "➤ Book a shipping company in Himmelkron/Bayreuth at a reasonable price ➤ Emons: Your reliable partner for transport and logistics since 1928"
+  },
+  {
+    "href": "/en/standorte/himmelkron-bayreuth-emons-east",
+    "title": "",
+    "description": "Emons East in Himmelkron near Bayreuth: Specialist for Eastern European transport. Professional logistics solutions for Eastern Europe. Inquire now."
+  },
+  {
+    "href": "/en/standorte/ho-chi-minh-city",
+    "title": "",
+    "description": "➤ Book inexpensive logistics solutions in Ho Chi Minh City ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/imarcoain",
+    "title": "",
+    "description": "➤ Günstig Logistiklösungen in Spanien buchen ➤ Emons: Ihr zuverlässiger Partner für Transport und Logistik seit 1928"
+  },
+  {
+    "href": "/en/standorte/itasca-chicago",
+    "title": "",
+    "description": "➤ Book an air and sea freight forwarding company in Chicago/Itasca at a reasonable price ➤ Emons: Your reliable partner for transport and logistics since 1928"
+  },
+  {
+    "href": "/en/standorte/kabelsketal-leipzig",
+    "title": "",
+    "description": "➤ Innovative Logistiklösungen in Leipzig ➤ Emons: Ihr zuverlässiger Partner für Lager, Transport und Logistik in Sachsen seit 1928 ➤ Jetzt anfragen"
+  },
+  {
+    "href": "/en/standorte/karlsruhe",
+    "title": "Spedition Karlsruhe — your logistics partner in the technology region",
+    "description": "➤ Book a shipping company in Karlsruhe cheaply ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request"
+  },
+  {
+    "href": "/en/standorte/kempten-allgau",
+    "title": "",
+    "description": "➤ Book a shipping company in Kempten/Allgäu at a reasonable price ➤ Emons: Your reliable partner for transport and logistics since 1928"
+  },
+  {
+    "href": "/en/standorte/kenzingen-freiburg",
+    "title": "Freight forwarding — your logistics partner in Breisgau",
+    "description": "➤ Book a shipping company in Freiburg at a reasonable price ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/kerpen",
+    "title": "",
+    "description": "➤ Innovative logistics solutions in Kerpen ➤ Emons: Your reliable partner for storage, transport and logistics in NRW since 1928 ➤ Inquire now"
+  },
+  {
+    "href": "/en/standorte/koln",
+    "title": "Spedition Köln — your logistics partner in the Rhineland",
+    "description": "➤ Book a shipping company in Cologne at a reasonable price ➤ Emons: Your reliable partner for transport and logistics since 1928"
+  },
+  {
+    "href": "/en/standorte/langenhagen-hannover-emons-air-sea",
+    "title": "",
+    "description": "Emons Air & Sea in Langenhagen near Hanover: specialist for air freight and sea freight. Close to the airport for international transport."
+  },
+  {
+    "href": "/en/standorte/ldb-munz",
+    "title": "",
+    "description": "LDB in Bühl: Professionelle Lager- und Logistikdienstleistungen. Gefahrgutexperte. Zuverlässiger Service in Baden-Württemberg. Kontakt hier."
+  },
+  {
+    "href": "/en/standorte/ldb-rastatt",
+    "title": "",
+    "description": "LDB in Rastatt: Professionelle Lager- und Logistikdienstleistungen. Gefahrgutexperte. Zuverlässiger Service in Baden-Württemberg. Kontakt hier."
+  },
+  {
+    "href": "/en/standorte/leibertingen-stuttgart-emons-air-sea",
+    "title": "",
+    "description": "Emons Air & Sea in Leibertingen near Stuttgart: specialist for air freight and sea freight in Baden-Württemberg. International transport solutions."
+  },
+  {
+    "href": "/en/standorte/leipzig",
+    "title": "",
+    "description": "➤ Book a shipping company in Leipzig cheaply ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/lisboa",
+    "title": "",
+    "description": "➤ Book a shipping company in Lisbon at a reasonable price ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/ludwigsburg-simplelogistik",
+    "title": "",
+    "description": "Emons SimpleLogistics in Ludwigsburg: Specialized logistics services and inventory management. Efficient solutions for your company."
+  },
+  {
+    "href": "/en/standorte/ludwigsfelde-berlin",
+    "title": "",
+    "description": "➤ Book a shipping company in Ludwigsfelde cheaply ➤ Emons: Your reliable partner for transport and logistics since 1928 ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/mailand",
+    "title": "",
+    "description": "Emons Spedition in Milan (Milano), Italy: Professional transport and logistics services in northern Italy. International connections."
+  },
+  {
+    "href": "/en/standorte/markgroningen-stuttgart",
+    "title": "",
+    "description": "➤ Innovative logistics solutions in Markgröningen ➤ Emons: Your reliable partner for storage, transport and logistics since 1928 ➤ Inquire now"
+  },
+  {
+    "href": "/en/standorte/medeg-logistics-ag",
+    "title": "",
+    "description": "Medeg Logistcs in Ruggell, Liechtenstein: Professional warehouse and logistics services. Reliable service in Liechtenstein. Contact here."
+  },
+  {
+    "href": "/en/standorte/montemor-o-velho-coimbra",
+    "title": "",
+    "description": "Emons Spedition in Montemor-o-Velho near Coimbra, Portugal: Professional transport and logistics services in central Portugal."
+  },
+  {
+    "href": "/en/standorte/moreira-da-maia-porto",
+    "title": "",
+    "description": "➤ Book a shipping company in Porto/Moreira da Maia at a reasonable price ➤ Emons: Your reliable partner for transport and logistics"
+  },
+  {
+    "href": "/en/standorte/neubrandenburg",
+    "title": "",
+    "description": "➤ Book a shipping company in Neubrandenburg cheaply ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/new-york",
+    "title": "",
+    "description": "➤ Book an air and sea freight forwarding company in New York at a reasonable price ➤ Emons: Your reliable partner for transport and logistics"
+  },
+  {
+    "href": "/en/standorte/nurnberg",
+    "title": "Freight Forwarder Nuremberg – Your Logistics Partner in Franconia at Bayernhafen Nuremberg",
+    "description": "Your freight forwarder in Nuremberg – groupage, part and full loads, warehousing and distribution logistics at Bayernhafen, with access to the A3, A6 and A9. Enquire now!"
+  },
+  {
+    "href": "/en/standorte/nyrany",
+    "title": "",
+    "description": "➤ Book a shipping company in Nýřany at a reasonable price ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/odense",
+    "title": "",
+    "description": "➤ Innovative logistics solutions in Odense ➤ Emons: Your reliable partner for storage, transport and logistics since 1928 ➤ Inquire now"
+  },
+  {
+    "href": "/en/standorte/orlando",
+    "title": "",
+    "description": "➤ Book an air and sea freight forwarding company in Orlando at a reasonable price ➤ Emons: Your reliable partner for transport and logistics"
+  },
+  {
+    "href": "/en/standorte/ostrava",
+    "title": "",
+    "description": "➤ Book a shipping company in Ostrava at a reasonable price ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/pall-ex-iberi-s-l",
+    "title": "",
+    "description": "➤ Innovative Logistiklösungen in Madrid ➤ Emons: Ihr zuverlässiger Partner für Lager, Transport und Logistik in NRW seit 1928 ➤ Jetzt anfragen"
+  },
+  {
+    "href": "/en/standorte/pardubice",
+    "title": "",
+    "description": "➤ Book a shipping company in Pardubice at a reasonable price ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/pilsen",
+    "title": "",
+    "description": "➤ Book a shipping company in Pilsen cheaply ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/prag",
+    "title": "",
+    "description": "➤ Book a shipping company in Prague at a reasonable price ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/prag-ostredek",
+    "title": "",
+    "description": "➤ Book a shipping company in Prague (Ostredek) cheaply ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/ratingen-dusseldorf-emons-air-sea",
+    "title": "Freight Forwarder Düsseldorf – Your Partner for Air Freight, Sea Freight & Customs in Ratingen",
+    "description": "Your Air & Sea freight forwarder in Düsseldorf – air freight, sea freight (FCL/LCL), container logistics and customs clearance from Ratingen, near Düsseldorf Airport. Request a quote!"
+  },
+  {
+    "href": "/en/standorte/raunheim-frankfurt-emons-air-sea",
+    "title": "Air & Sea Freight Frankfurt – Emons Air & Sea in Raunheim at FRA",
+    "description": "Air and sea freight forwarding at Frankfurt Airport: Emons Air & Sea in Raunheim organizes air freight, FCL/LCL sea freight, customs clearance and vehicle shipping worldwide. Enquire now."
+  },
+  {
+    "href": "/en/standorte/saterland",
+    "title": "",
+    "description": "➤ Book a shipping company in Saterland at a reasonable price ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/sofia",
+    "title": "",
+    "description": "➤ Book a shipping company in Sofia at a reasonable price ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/sokolov",
+    "title": "",
+    "description": "➤ Book a shipping company in Sokolov cheaply ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/spornitz-schwerin",
+    "title": "",
+    "description": "➤ Book a shipping company in Spornitz/Schwerin at a reasonable price ➤ Emons: Your reliable partner for transport and logistics"
+  },
+  {
+    "href": "/en/standorte/st-margrethen",
+    "title": "",
+    "description": "➤ Book a shipping company in St. Margrethen at a reasonable price ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/stuttgart-emons-air-sea",
+    "title": "Air & Sea Freight Stuttgart – Emons Air & Sea at the airport",
+    "description": "➤ Book an air and sea freight forwarding company in Stuttgart at a reasonable price ➤ Emons: Your reliable partner for transport and logistics"
+  },
+  {
+    "href": "/en/standorte/thayngen",
+    "title": "",
+    "description": "➤ Book a shipping company in Thayngen cheaply ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/thurnau",
+    "title": "",
+    "description": "➤ Book inexpensive logistics solutions in Thurnau ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/uhrsleben-magdeburg",
+    "title": "Magdeburg Freight Forwarding – Emons Uhrsleben on the A2",
+    "description": "➤ Book a shipping company in Uhrsleben/Magdeburg at a reasonable price ➤ Emons: Your reliable partner for transport and logistics"
+  },
+  {
+    "href": "/en/standorte/urmitz-koblenz",
+    "title": "Freight Forwarding Koblenz – Emons in Urmitz on the Middle Rhine",
+    "description": "Freight forwarding for Koblenz and the Middle Rhine: Emons in Urmitz handles groupage, part and full loads along the Rhine corridor with a dedicated dispatch team. Submit a freight inquiry now."
+  },
+  {
+    "href": "/en/standorte/villingen-cargo-international-gmbh",
+    "title": "",
+    "description": "Emon's location in VS-Villingen: Cargo International GmbH offers professional shipping and logistics services. Contact and directions here."
+  },
+  {
+    "href": "/en/standorte/vs-villingen",
+    "title": "",
+    "description": "➤ Book a freight forwarding company in VS-Villingen at a reasonable price ➤ Emons: Your reliable partner for transport and logistics ➤ Make a transport request now"
+  },
+  {
+    "href": "/en/standorte/vs-villingen-emons-air-sea",
+    "title": "",
+    "description": "➤ Book an air and sea freight forwarding company in VS Villingen at a reasonable price ➤ Emons: Your reliable partner for transport and logistics"
+  },
+  {
+    "href": "/en/standorte/weiterstadt-darmstadt",
+    "title": "Spedition Darmstadt — your logistics partner in southern Hesse",
+    "description": "Emon's forwarding agency in Weiterstadt near Darmstadt: Professional transport and logistics services in Hesse. Get in touch. Book transportation."
+  },
+  {
+    "href": "/en/munz-ldb",
+    "title": "Gefahrstofflogistik & Fulfillment in Süddeutschland: Ihre Supply Chain sicher skaliert.",
+    "description": "Sichere Gefahrstofflogistik & Fulfillment in Süddeutschland. Zertifiziert, skalierbar und effizient – jetzt Beratung anfragen."
+  }
+]

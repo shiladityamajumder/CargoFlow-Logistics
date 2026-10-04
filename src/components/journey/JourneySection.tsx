@@ -231,7 +231,7 @@ export function JourneySection() {
                 <div className="hero-hotspot-anchor" key={point.title} style={{ left: "left" in point ? point.left : undefined, right: "right" in point ? point.right : undefined, top: point.top }}>
                   <button type="button" className={`hero-hotspot${stage === index && hotspot === pointIndex ? " is-open" : ""}`} aria-expanded={stage === index && hotspot === pointIndex} aria-label={`Explore ${point.title}`} onClick={() => setHotspot(hotspot === pointIndex ? null : pointIndex)}>{stage === index && hotspot === pointIndex ? "−" : "+"}</button>
                   {stage === index && hotspot === pointIndex && (
-                    <aside className="hotspot-panel"><p className="section-tag">{scene.label}</p><h2>{point.title}</h2><p>{scene.text}</p><a href="#services" className="pill-link" onClick={() => setHotspot(null)}>Find out more <span>↗</span></a></aside>
+                    <aside className="hotspot-panel"><p className="section-tag">{scene.label}</p><h2>{point.title}</h2><p>{scene.text}</p><a href={point.title === "Customs" ? "/en/leistungen/zoll" : point.title === "Sea" ? "/en/leistungen/see" : `/en/leistungen/${({ road: "strasse", logistics: "logistik", air: "luft", rail: "schiene", digital: "digital" })[scene.id]}`} className="pill-link" onClick={() => setHotspot(null)}>Find out more <span>↗</span></a></aside>
                   )}
                 </div>
               ))}
@@ -243,7 +243,7 @@ export function JourneySection() {
         <article className="hero-copy">
           <h1>Emons - your forwarding company for transport &amp; logistics</h1>
           <p>Tailored services — global, connected and efficient. Whether by road, air, water or rail — we deliver your cargo safely to its destination. With digital tools and personal service.</p>
-          <div className="hero-actions"><a href="#services" className="pill-link">Services overview</a><a href="#contact" className="pill-link">For the freight request</a></div>
+          <div className="hero-actions"><a href="#services" className="pill-link">Services overview</a><a href="/en/frachtanfrage" className="pill-link">For the freight request</a></div>
         </article>
 
         <div className="journey-controls">
@@ -254,7 +254,7 @@ export function JourneySection() {
               </button>
             ))}
           </nav>
-          <a href="#services" className="pill-link journey-all-services">All services <span>↗</span></a>
+          <a href="/en/leistungen" className="pill-link journey-all-services">All services <span>↗</span></a>
         </div>
         </div>
       </div>

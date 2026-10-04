@@ -10,7 +10,7 @@ export function ExpertiseSection() {
         <img className="collage-train" src="/reference/train.webp" alt="Freight transport by rail" loading="lazy" />
       </div>
       <div className="expertise-content">
-        <div className="expertise-heading"><h2 id="expertise-title">Your experts for reliable transport and logistics solutions</h2><div className="inline-actions"><a href="#network" className="pill-link">Learn more about Emons <span>⟶</span></a><a href="#services" className="pill-link">About our services <span>⟶</span></a></div></div>
+        <div className="expertise-heading"><h2 id="expertise-title">Your experts for reliable transport and logistics solutions</h2><div className="inline-actions"><a href="/en/portrait" className="pill-link">Learn more about Emons <span>⟶</span></a><a href="/en/leistungen" className="pill-link">About our services <span>⟶</span></a></div></div>
         <div className="expertise-description"><p>Every shipment starts with an understanding of your business. Our teams combine local knowledge with international connections to find the right solution for your cargo — on the road, by rail, in the air or at sea.</p><p>We make the whole journey work together. From careful warehouse handling to reliable delivery, a clear plan and a personal contact keep your goods moving and your team informed. Whatever your next challenge, we are ready to find the way forward.</p></div>
       </div>
     </section>

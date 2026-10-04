@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "test:pages": "node scripts/verify-internal-pages.mjs",
+    "reference:styles": "node scripts/scope-reference.mjs"
   },
   "dependencies": {
     "@react-three/fiber": "^9.4.0",
@@ -23,6 +25,7 @@
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "@types/three": "^0.181.0",
+    "playwright": "^1.63.0",
     "typescript": "^5.9.0"
   }
 }
